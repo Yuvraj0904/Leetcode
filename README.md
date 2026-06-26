@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yuvraj0904/Leetcode/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yuvraj0904/Leetcode/tree/master/2951-find-the-peaks) |
 ## Interactive
 |  |
