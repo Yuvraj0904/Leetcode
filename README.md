@@ -55,6 +55,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yuvraj0904/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yuvraj0904/Leetcode/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj0904/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
@@ -87,6 +89,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yuvraj0904/Leetcode/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvraj0904/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
