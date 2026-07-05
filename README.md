@@ -6,6 +6,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Yuvraj0904/Leetcode/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/Yuvraj0904/Leetcode/tree/master/2401-longest-nice-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Yuvraj0904/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
