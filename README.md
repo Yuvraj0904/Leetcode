@@ -8,6 +8,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | ------- |
 | [0051-n-queens](https://github.com/Yuvraj0904/Leetcode/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
+| [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Yuvraj0904/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yuvraj0904/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## String
@@ -105,6 +108,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Yuvraj0904/Leetcode/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
