@@ -144,4 +144,8 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj0904/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Yuvraj0904/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
