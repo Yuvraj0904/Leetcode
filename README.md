@@ -12,6 +12,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Yuvraj0904/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvraj0904/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Yuvraj0904/Leetcode/tree/master/0595-big-countries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
