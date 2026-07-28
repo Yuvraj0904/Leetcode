@@ -50,6 +50,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvraj0904/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
