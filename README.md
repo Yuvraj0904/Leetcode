@@ -7,6 +7,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Yuvraj0904/Leetcode/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0136-single-number) |
 | [2401-longest-nice-subarray](https://github.com/Yuvraj0904/Leetcode/tree/master/2401-longest-nice-subarray) |
 ## Backtracking
 |  |
