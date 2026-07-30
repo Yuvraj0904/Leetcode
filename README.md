@@ -87,6 +87,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/Yuvraj0904/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj0904/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yuvraj0904/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvraj0904/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
