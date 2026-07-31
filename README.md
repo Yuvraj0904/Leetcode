@@ -51,6 +51,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yuvraj0904/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
