@@ -22,6 +22,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yuvraj0904/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Yuvraj0904/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2401-longest-nice-subarray](https://github.com/Yuvraj0904/Leetcode/tree/master/2401-longest-nice-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -92,6 +94,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0877-stone-game) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj0904/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -104,6 +107,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yuvraj0904/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
