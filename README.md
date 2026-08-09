@@ -106,6 +106,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
@@ -197,5 +198,6 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
