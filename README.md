@@ -29,6 +29,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2594-minimum-time-to-repair-cars](https://github.com/Yuvraj0904/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yuvraj0904/Leetcode/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvraj0904/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
