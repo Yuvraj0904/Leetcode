@@ -21,6 +21,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Yuvraj0904/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvraj0904/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1995-count-special-quadruplets](https://github.com/Yuvraj0904/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yuvraj0904/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1995-count-special-quadruplets](https://github.com/Yuvraj0904/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yuvraj0904/Leetcode/tree/master/2951-find-the-peaks) |
 ## Interactive
@@ -83,6 +85,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1995-count-special-quadruplets](https://github.com/Yuvraj0904/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj0904/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
