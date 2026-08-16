@@ -6,6 +6,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Yuvraj0904/Leetcode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/Yuvraj0904/Leetcode/tree/master/0051-n-queens) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Yuvraj0904/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Yuvraj0904/Leetcode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
