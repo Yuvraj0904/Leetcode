@@ -135,6 +135,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/Yuvraj0904/Leetcode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
@@ -237,12 +238,18 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Yuvraj0904/Leetcode/tree/master/0060-permutation-sequence) |
+| [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvraj0904/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
