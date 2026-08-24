@@ -37,6 +37,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Yuvraj0904/Leetcode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj0904/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvraj0904/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Yuvraj0904/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2206-divide-array-into-equal-pairs](https://github.com/Yuvraj0904/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj0904/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvraj0904/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Yuvraj0904/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0877-stone-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvraj0904/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvraj0904/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yuvraj0904/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -237,4 +240,8 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Yuvraj0904/Leetcode/tree/master/0060-permutation-sequence) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Yuvraj0904/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
