@@ -201,11 +201,13 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0112-path-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -264,4 +267,5 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvraj0904/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
