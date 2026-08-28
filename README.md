@@ -18,6 +18,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Yuvraj0904/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yuvraj0904/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj0904/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
