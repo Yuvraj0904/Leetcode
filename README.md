@@ -45,6 +45,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yuvraj0904/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3903-smallest-stable-index-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
