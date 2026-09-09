@@ -16,6 +16,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0821-shortest-distance-to-a-character](https://github.com/Yuvraj0904/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Yuvraj0904/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0202-happy-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/Yuvraj0904/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Yuvraj0904/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -166,6 +168,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yuvraj0904/Leetcode/tree/master/0013-roman-to-integer) |
+| [0821-shortest-distance-to-a-character](https://github.com/Yuvraj0904/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1844-replace-all-digits-with-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
