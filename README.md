@@ -6,6 +6,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Yuvraj0904/Leetcode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/Yuvraj0904/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0047-permutations-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yuvraj0904/Leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj0904/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
