@@ -15,6 +15,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0135-candy](https://github.com/Yuvraj0904/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj0904/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Yuvraj0904/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Yuvraj0904/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj0904/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Yuvraj0904/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1995-count-special-quadruplets](https://github.com/Yuvraj0904/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj0904/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Yuvraj0904/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Yuvraj0904/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Yuvraj0904/Leetcode/tree/master/0881-boats-to-save-people) |
