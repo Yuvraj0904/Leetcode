@@ -58,6 +58,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvraj0904/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yuvraj0904/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvraj0904/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvraj0904/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvraj0904/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Yuvraj0904/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvraj0904/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
