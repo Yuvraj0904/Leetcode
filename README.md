@@ -34,6 +34,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvraj0904/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1695-maximum-erasure-value](https://github.com/Yuvraj0904/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Yuvraj0904/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvraj0904/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj0904/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvraj0904/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/Yuvraj0904/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1995-count-special-quadruplets](https://github.com/Yuvraj0904/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Yuvraj0904/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Yuvraj0904/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Yuvraj0904/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvraj0904/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/Yuvraj0904/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/Yuvraj0904/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj0904/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
