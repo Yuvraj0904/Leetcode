@@ -34,6 +34,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvraj0904/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvraj0904/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yuvraj0904/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Yuvraj0904/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Yuvraj0904/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvraj0904/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Yuvraj0904/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvraj0904/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuvraj0904/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yuvraj0904/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Yuvraj0904/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvraj0904/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Yuvraj0904/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvraj0904/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Yuvraj0904/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yuvraj0904/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
 | ------- |
