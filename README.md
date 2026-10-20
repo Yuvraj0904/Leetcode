@@ -25,6 +25,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj0904/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvraj0904/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Yuvraj0904/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj0904/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/Yuvraj0904/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj0904/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvraj0904/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yuvraj0904/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -356,6 +358,7 @@ A collection of LeetCode questions i do everyday to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj0904/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Yuvraj0904/Leetcode/tree/master/0682-baseball-game) |
 ## Breadth-First Search
 |  |
 | ------- |
